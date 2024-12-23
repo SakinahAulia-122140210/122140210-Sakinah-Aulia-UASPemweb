@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: url(mengg.jpeg) no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+form {
+    margin: 15px auto;
+    max-width: 400px;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    backdrop-filter: blur(20px);
+}
+
+label {
+    display: block;
+    background-color: #ffffff;
+    margin-top: 10px;
+}
+
+input{
+    width: 95%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    background-color: #ff0000;
+    color: #f9f9f9;
+    font-weight: bold;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #ffffff;
+    width: 90%;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: center;
+}
+.terms{
+    align-items: center;
+    gap: 5px;
+    display: flex;
+}
+.terms input{
+    width: auto;
+}
