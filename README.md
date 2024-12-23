@@ -16,9 +16,9 @@ Persyaratan
 - Web server 
 - PHP MySQLi extension
 
-  3. Langkah langkah
-  - Buat database: Buat database di MySQL dengan nama manajemen_barang dan tabel users serta barang.
-  - Konfigurasi Database: Sesuaikan konfigurasi koneksi database pada bagian berikut di dalam file PHP, pastikan username, password, dan nama database telah benar
-  - pindahkan file ke htdocs pada XAMPP
-  - Jalankan website pada browser dengan link localhost/UASPemweb/login.php
+ 3. Langkah langkah
+- Buat database: Buat database di MySQL dengan nama manajemen_barang dan tabel users serta barang.
+- Konfigurasi Database: Sesuaikan konfigurasi koneksi database pada bagian berikut di dalam file PHP, pastikan username, password, dan nama database telah benar
+- pindahkan file ke htdocs pada XAMPP
+- Jalankan website pada browser dengan link localhost/UASPemweb/login.php
   
